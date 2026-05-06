@@ -5,7 +5,6 @@ import './index.css'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-      {/** test code 3 */}
-    <App />
+    {/*<App />*/}
   </StrictMode>,
 )
